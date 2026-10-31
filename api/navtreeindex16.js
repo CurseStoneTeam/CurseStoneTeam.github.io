@@ -1,6 +1,5 @@
 var NAVTREEINDEX16 =
 {
-"classcursestone_1_1network_1_1protocol_1_1UseItemPacket.html#a98a3396becf960fecbf778d0bbeaf1ad":[9,0,0,7,0,55,3],
 "classcursestone_1_1network_1_1protocol_1_1UseItemPacket.html#a9bb2e2dcf37b2d013ad1e3626b5ea065":[9,0,0,7,0,55,2],
 "classcursestone_1_1network_1_1protocol_1_1UseItemPacket.html#ab77c0296399c1782bd59190367312d6a":[9,0,0,7,0,55,7],
 "classcursestone_1_1network_1_1protocol_1_1UseItemPacket.html#af70cedc35b0e40212b5f606c55df0e56":[9,0,0,7,0,55,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX16 =
 "classcursestone_1_1utils_1_1VersionString.html#accc615789c9cab772975795c1657e353":[9,0,0,13,5,7],
 "classcursestone_1_1utils_1_1VersionString.html#ae461b5e29d2516a174355cbc903a95d5":[9,0,0,13,5,8],
 "classcursestone_1_1utils_1_1VersionString.html#af4e7e4702288c27a52f106a780840c74":[9,0,0,13,5,4],
-"classcursestone_1_1wizard_1_1Installer.html":[9,0,0,14,0]
+"classcursestone_1_1wizard_1_1Installer.html":[9,0,0,14,0],
+"classcursestone_1_1wizard_1_1Installer.html#a24f236b5683e8924c6b5a5a5ba290e83":[9,0,0,14,0,2]
 };

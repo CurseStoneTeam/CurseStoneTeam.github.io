@@ -1,6 +1,5 @@
 var NAVTREEINDEX17 =
 {
-"classcursestone_1_1wizard_1_1Installer.html#a24f236b5683e8924c6b5a5a5ba290e83":[9,0,0,14,0,2],
 "classcursestone_1_1wizard_1_1Installer.html#a66b320fc196a81c2bbe497a7237b2d91":[9,0,0,14,0,3],
 "classcursestone_1_1wizard_1_1Installer.html#abe71bd6fa0f07922ca581664d65e2685":[9,0,0,14,0,1],
 "classcursestone_1_1wizard_1_1Installer.html#aea742766d2b717669575e790beedc2f6":[9,0,0,14,0,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX17 =
 "classcursestone_1_1world_1_1format_1_1anvil_1_1AnvilRegionLoader.html#a6b4eebc8ae157233c2a72595df6a5afa":[9,0,0,15,0,0,3,1],
 "classcursestone_1_1world_1_1format_1_1anvil_1_1AnvilRegionLoader.html#a714151fd195a92eb110aa1e334248cde":[9,0,0,15,0,0,3,9],
 "classcursestone_1_1world_1_1format_1_1anvil_1_1AnvilRegionLoader.html#a73e1aa63dc52dc7fad2bd95bdcac2309":[9,0,0,15,0,0,3,5],
-"classcursestone_1_1world_1_1format_1_1anvil_1_1AnvilRegionLoader.html#a8400c76450417866ed8e9789fe93eae7":[9,0,0,15,0,0,3,4]
+"classcursestone_1_1world_1_1format_1_1anvil_1_1AnvilRegionLoader.html#a8400c76450417866ed8e9789fe93eae7":[9,0,0,15,0,0,3,4],
+"classcursestone_1_1world_1_1format_1_1anvil_1_1AnvilRegionLoader.html#a941c71a5d66caf82eaa7f492e01fdc15":[9,0,0,15,0,0,3,3]
 };

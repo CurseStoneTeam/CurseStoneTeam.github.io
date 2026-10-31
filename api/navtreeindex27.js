@@ -1,6 +1,5 @@
 var NAVTREEINDEX27 =
 {
-"structmcp__random.html#a30c8aeb82381ac49d7c085ec5d6a1465":[9,0,30,1],
 "structmcp__random.html#a8982ee4c45cc48e6caa89de8b0f31075":[9,0,30,0],
 "structmcp__send__slot.html":[9,0,31],
 "structmcp__send__slot.html#a0f8b024bf996070808f706195d81a0a8":[9,0,31,2],
@@ -249,5 +248,6 @@ var NAVTREEINDEX27 =
 "structvgen_1_1Vec3.html#ad6b9353f31155baf477370ff74ed5c37":[9,0,2,164,11],
 "utils_2Binary_8h_source.html":[10,0,0,18,0],
 "utils_2Random_8h_source.html":[10,0,0,18,12],
-"vgen_2synth_2ImprovedNoise_8h_source.html":[10,0,0,21,1,2,5,0]
+"vgen_2synth_2ImprovedNoise_8h_source.html":[10,0,0,21,1,2,5,0],
+"vgen_2synth_2PerlinNoise_8h_source.html":[10,0,0,21,1,2,5,1]
 };

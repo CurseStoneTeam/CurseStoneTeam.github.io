@@ -141,7 +141,7 @@ $(document).ready(function(){initNavTree('ChunkSection_8h_source.html',''); init
 <div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;<span class="comment">// Range 0..4095 for blocks, 0..2047 for nibble arrays.</span></div>
 <div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;<span class="comment">//</span></div>
 <div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;<span class="comment">// NOTE (CurseStone): the nibble index MUST use the same shift-8 packing</span></div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;<span class="comment">// as Chunk.c&#39;s nibble_index()/get_nibble()/set_nibble() — byte =</span></div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;<span class="comment">// as Chunk&#39;s nibble_index()/get_nibble()/set_nibble() helpers — byte =</span></div>
 <div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;<span class="comment">// 128*y + 8*z + x/2, low nibble for even x, high nibble for odd x.</span></div>
 <div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;<span class="comment">// An earlier revision used (y&lt;&lt;7) here, which overlaps with the z bits</span></div>
 <div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;<span class="comment">// ((x=1,z=8,y=0) and (x=1,z=0,y=1) both map to 129) and desynchronizes</span></div>

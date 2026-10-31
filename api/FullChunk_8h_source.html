@@ -116,9 +116,9 @@ $(document).ready(function(){initNavTree('FullChunk_8h_source.html',''); initRes
 <div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;<span class="comment">// to be serialized into a `FullChunkDataPacket` (protocol 0x34) and</span></div>
 <div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;<span class="comment">// broadcast to players.</span></div>
 <div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;<span class="comment">//</span></div>
-<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;<span class="comment">// Concrete implementers: Chunk (level/format/Chunk.h, pure C struct</span></div>
-<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;<span class="comment">// wrapped by ChunkManager), and any future custom chunk type. The</span></div>
-<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;<span class="comment">// interface itself is pure-virtual C++ so the rest of the engine</span></div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;<span class="comment">// Concrete implementers: Chunk (level/format/Chunk.h), and any future</span></div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;<span class="comment">// custom chunk type. The interface itself is pure-virtual C++ so the</span></div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;<span class="comment">// rest of the engine</span></div>
 <div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;<span class="comment">// (World, Player chunk-sender) can hold a `FullChunk*` without</span></div>
 <div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;<span class="comment">// caring which on-disk format produced it.</span></div>
 <div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;<span class="preprocessor">#pragma once</span></div>

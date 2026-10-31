@@ -1,6 +1,5 @@
 var NAVTREEINDEX19 =
 {
-"classvgen_1_1Biome.html#abda8dc61c87ce5ccd80abebd669141e1":[9,0,2,1,11],
 "classvgen_1_1Biome.html#abfe699963dd32a190fc4e3fb40769c09":[9,0,2,1,10],
 "classvgen_1_1Biome.html#ac0b6b1381a452cbd183364a701837ed1":[9,0,2,1,8],
 "classvgen_1_1Biome.html#ac46e5f8a774676f0061319250d81096a":[9,0,2,1,16],
@@ -249,5 +248,6 @@ var NAVTREEINDEX19 =
 "classvgen_1_1BoundingBox.html#a932eece3e82910669ecf16ac3d80254f":[9,0,2,109,25],
 "classvgen_1_1BoundingBox.html#aa006380cb7b7c065f322f55b5e5b6574":[9,0,2,109,11],
 "classvgen_1_1BoundingBox.html#ab202a2d3f60d0fd9418bdfa865bbe37b":[9,0,2,109,6],
-"classvgen_1_1BoundingBox.html#ac4d14055ad41976d29b3c2976bdd5aaa":[9,0,2,109,7]
+"classvgen_1_1BoundingBox.html#ac4d14055ad41976d29b3c2976bdd5aaa":[9,0,2,109,7],
+"classvgen_1_1BoundingBox.html#ac80214c3cf5a5c6478703e755521d7fc":[9,0,2,109,16]
 };

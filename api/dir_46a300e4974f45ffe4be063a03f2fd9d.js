@@ -32,7 +32,6 @@ var dir_46a300e4974f45ffe4be063a03f2fd9d =
     [ "BlockLava.h", "BlockLava_8h_source.html", null ],
     [ "BlockLavaFlowing.h", "BlockLavaFlowing_8h_source.html", null ],
     [ "BlockLeaves.h", "BlockLeaves_8h_source.html", null ],
-    [ "BlockLightC.h", "BlockLightC_8h_source.html", null ],
     [ "BlockLiquid.h", "BlockLiquid_8h_source.html", null ],
     [ "BlockLog.h", "BlockLog_8h_source.html", null ],
     [ "BlockMagmaBlock.h", "BlockMagmaBlock_8h_source.html", null ],

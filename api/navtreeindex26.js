@@ -1,6 +1,5 @@
 var NAVTREEINDEX26 =
 {
-"structmcp__async__logger.html#a05848cbb54c129c77ba43512cebdc6d7":[9,0,5,13],
 "structmcp__async__logger.html#a11fc937e4eea59d9c6fbf76d367713c5":[9,0,5,5],
 "structmcp__async__logger.html#a146358e86a31e2a47d6b058d8fd5a2ed":[9,0,5,2],
 "structmcp__async__logger.html#a17864168f369d059a6de52c7ae5df6c5":[9,0,5,1],
@@ -249,5 +248,6 @@ var NAVTREEINDEX26 =
 "structmcp__raklib__server.html#a9c3a5c3c038f9bf79de159fbc64ca8a8":[9,0,29,2],
 "structmcp__raklib__server.html#aaa10d97fd816e8ebea08a35aec38250b":[9,0,29,3],
 "structmcp__raklib__server.html#abcbf1ae7e09c02fbfe47b8d39bfc53a0":[9,0,29,0],
-"structmcp__random.html":[9,0,30]
+"structmcp__random.html":[9,0,30],
+"structmcp__random.html#a30c8aeb82381ac49d7c085ec5d6a1465":[9,0,30,1]
 };

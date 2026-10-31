@@ -1,6 +1,5 @@
 var NAVTREEINDEX6 =
 {
-"OceanBiome_8h_source.html":[10,0,0,21,1,2,0,14],
 "OpCommand_8h_source.html":[10,0,0,1,0,7],
 "OreFeature_8h_source.html":[10,0,0,21,1,2,1,22],
 "OreGenerator_8h_source.html":[10,0,0,21,1,1,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX6 =
 "StructurePieceType_8h.html#a0c806526a04a9ba3ed0e9e08c666cc04ae0af2604bdad9dc6a9c62aa991bd466f":[8,0,2,209,12],
 "StructurePieceType_8h.html#a0c806526a04a9ba3ed0e9e08c666cc04aee2d5a75805e4f6a5902e3d37a7c5d79":[8,0,2,209,23],
 "StructurePieceType_8h.html#a0c806526a04a9ba3ed0e9e08c666cc04af164f3ebf3c0406a6eb41d39762614b4":[8,0,2,209,60],
-"StructurePieceType_8h.html#a0c806526a04a9ba3ed0e9e08c666cc04af219677342a5b23427ac8488112128d8":[8,0,2,209,45]
+"StructurePieceType_8h.html#a0c806526a04a9ba3ed0e9e08c666cc04af219677342a5b23427ac8488112128d8":[8,0,2,209,45],
+"StructurePieceType_8h.html#a0c806526a04a9ba3ed0e9e08c666cc04af57ff9dd45b5228c31ab398306947fc6":[8,0,2,209,32]
 };

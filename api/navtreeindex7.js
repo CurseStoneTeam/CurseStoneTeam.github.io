@@ -1,6 +1,5 @@
 var NAVTREEINDEX7 =
 {
-"StructurePieceType_8h.html#a0c806526a04a9ba3ed0e9e08c666cc04af57ff9dd45b5228c31ab398306947fc6":[8,0,2,209,32],
 "StructurePieceType_8h.html#a0c806526a04a9ba3ed0e9e08c666cc04af9401f057fd20949b0c248e68f939688":[8,0,2,209,1],
 "StructurePieceType_8h.html#a0c806526a04a9ba3ed0e9e08c666cc04affded01f0a792f9d357d2771824dbfe8":[8,0,2,209,52],
 "StructurePieceType_8h_source.html":[10,0,0,21,1,2,4,8],
@@ -249,5 +248,6 @@ var NAVTREEINDEX7 =
 "classcursestone_1_1KickCommand.html#a5e3b0ccf002bf86385e7e7d7d0c20ebf":[9,0,0,25,1],
 "classcursestone_1_1KickCommand.html#ab432e13fe76448b24b04c24a2f2bcd51":[9,0,0,25,0],
 "classcursestone_1_1KillCommand.html":[9,0,0,26],
-"classcursestone_1_1KillCommand.html#ae08639007192c64709ac4b271c5f5dae":[9,0,0,26,1]
+"classcursestone_1_1KillCommand.html#ae08639007192c64709ac4b271c5f5dae":[9,0,0,26,1],
+"classcursestone_1_1KillCommand.html#afbfc3125ebf1a3b41873fd53ffa7ae0c":[9,0,0,26,0]
 };

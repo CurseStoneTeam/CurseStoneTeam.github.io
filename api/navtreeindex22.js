@@ -1,6 +1,5 @@
 var NAVTREEINDEX22 =
 {
-"classvgen_1_1PerlinNoise.html#a430a82db8859816ba3455c0a877874b9":[9,0,2,148,0],
 "classvgen_1_1PerlinNoise.html#a471f20465cea62e9cb26316ceee8d368":[9,0,2,148,4],
 "classvgen_1_1PerlinNoise.html#a72a5a729471dc29aec46d5c9d0e89f6b":[9,0,2,148,5],
 "classvgen_1_1PerlinNoise.html#af76f85fd4e0deeb5fbd1deba46a923af":[9,0,2,148,3],
@@ -249,5 +248,6 @@ var NAVTREEINDEX22 =
 "classvgen_1_1StraightRoad.html#ad83d75125eacc57de25945c1754d2919":[9,0,2,146,0],
 "classvgen_1_1StructureFeature.html":[9,0,2,125],
 "classvgen_1_1StructureFeature.html#a03f29f82d0e021694b49908f5b0fb9d9":[9,0,2,125,0],
-"classvgen_1_1StructureFeature.html#a2151881a0cccdb7a38a16aa9c936d4de":[9,0,2,125,9]
+"classvgen_1_1StructureFeature.html#a2151881a0cccdb7a38a16aa9c936d4de":[9,0,2,125,9],
+"classvgen_1_1StructureFeature.html#a2743dff52b697886b7513d58ac7e3903":[9,0,2,125,5]
 };

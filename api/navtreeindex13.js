@@ -1,6 +1,5 @@
 var NAVTREEINDEX13 =
 {
-"classcursestone_1_1item_1_1ItemIronChestplate.html#ab3eb1166d71d38145d3b43be2c47ebc0":[9,0,0,5,52,1],
 "classcursestone_1_1item_1_1ItemIronHelmet.html":[9,0,0,5,53],
 "classcursestone_1_1item_1_1ItemIronHelmet.html#a4d0409bcd9fc73d6c7d2b8b60483542d":[9,0,0,5,53,1],
 "classcursestone_1_1item_1_1ItemIronHelmet.html#ae5bbb54e9071eec9d372e31e68401cd0":[9,0,0,5,53,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX13 =
 "classcursestone_1_1network_1_1protocol_1_1AddEntityPacket.html#a6a2df0b6679e522bb80990b753d3ca2f":[9,0,0,7,0,0,2],
 "classcursestone_1_1network_1_1protocol_1_1AddEntityPacket.html#a727ce7a392b204467e3a3bd1e9979556":[9,0,0,7,0,0,4],
 "classcursestone_1_1network_1_1protocol_1_1AddEntityPacket.html#a8fb64313af338f9135f85704e6bef7b7":[9,0,0,7,0,0,1],
-"classcursestone_1_1network_1_1protocol_1_1AddEntityPacket.html#a97a36b4cc6f7ab6b445c5eaeebd5d5d5":[9,0,0,7,0,0,3]
+"classcursestone_1_1network_1_1protocol_1_1AddEntityPacket.html#a97a36b4cc6f7ab6b445c5eaeebd5d5d5":[9,0,0,7,0,0,3],
+"classcursestone_1_1network_1_1protocol_1_1AddEntityPacket.html#aafabf5c22066eeb58ffe51d2d5c8322f":[9,0,0,7,0,0,0]
 };

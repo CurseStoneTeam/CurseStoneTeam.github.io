@@ -1,6 +1,5 @@
 var NAVTREEINDEX14 =
 {
-"classcursestone_1_1network_1_1protocol_1_1AddEntityPacket.html#aafabf5c22066eeb58ffe51d2d5c8322f":[9,0,0,7,0,0,0],
 "classcursestone_1_1network_1_1protocol_1_1AddEntityPacket.html#ab6af87c5fc4668eab7ab4e9b822fd49a":[9,0,0,7,0,0,14],
 "classcursestone_1_1network_1_1protocol_1_1AddEntityPacket.html#ad4899e74602177827574b1d706efb4c7":[9,0,0,7,0,0,7],
 "classcursestone_1_1network_1_1protocol_1_1AddEntityPacket.html#addd6116d7e3d3a188e56abfd567b13b5":[9,0,0,7,0,0,10],
@@ -249,5 +248,6 @@ var NAVTREEINDEX14 =
 "classcursestone_1_1network_1_1protocol_1_1MobArmorEquipmentPacket.html#a7558eb648638872bf229f73b11a211e7":[9,0,0,7,0,30,9],
 "classcursestone_1_1network_1_1protocol_1_1MobArmorEquipmentPacket.html#a7eb78fed40271828245ea470ef521fc5":[9,0,0,7,0,30,13],
 "classcursestone_1_1network_1_1protocol_1_1MobArmorEquipmentPacket.html#a93c8afefd53b25dfacfdd9742563fb51":[9,0,0,7,0,30,3],
-"classcursestone_1_1network_1_1protocol_1_1MobArmorEquipmentPacket.html#aa49d3b228695fdfd7b12b9f93e7f6231":[9,0,0,7,0,30,5]
+"classcursestone_1_1network_1_1protocol_1_1MobArmorEquipmentPacket.html#aa49d3b228695fdfd7b12b9f93e7f6231":[9,0,0,7,0,30,5],
+"classcursestone_1_1network_1_1protocol_1_1MobArmorEquipmentPacket.html#ac066bf7cd571aa9b1e20ec47d787451b":[9,0,0,7,0,30,0]
 };

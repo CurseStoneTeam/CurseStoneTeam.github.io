@@ -1,6 +1,5 @@
 var NAVTREEINDEX25 =
 {
-"structcursestone_1_1event_1_1RegisteredListener.html#ae95f98ce670eef748f9b11421bc63f4d":[9,0,0,3,9,1],
 "structcursestone_1_1inventory_1_1CreativeItemDef.html":[9,0,0,4,3],
 "structcursestone_1_1inventory_1_1CreativeItemDef.html#aae9b77484021968555b9d7d4a94c9feb":[9,0,0,4,3,1],
 "structcursestone_1_1inventory_1_1CreativeItemDef.html#ab22f47c08ad69d50331d1f6ca474f70b":[9,0,0,4,3,0],
@@ -249,5 +248,6 @@ var NAVTREEINDEX25 =
 "structmcp__aabb.html#aa9ce000d0b063bebdec92e13987f22ae":[9,0,4,5],
 "structmcp__aabb.html#abaa5a3e22faa0e907ebd445e7df74a13":[9,0,4,3],
 "structmcp__aabb.html#ac1eeb3ff9d103e732bfb1ee44e50d28f":[9,0,4,2],
-"structmcp__async__logger.html":[9,0,5]
+"structmcp__async__logger.html":[9,0,5],
+"structmcp__async__logger.html#a05848cbb54c129c77ba43512cebdc6d7":[9,0,5,13]
 };
